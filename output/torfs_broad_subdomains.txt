@@ -1,0 +1,4 @@
+winkels.torfs.be
+www.torfs.nl
+*.torfs.be
+www.torfs.be

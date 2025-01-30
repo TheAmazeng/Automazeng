@@ -1,0 +1,10 @@
+tv.torfs.be
+sst.torfs.be
+sstg.torfs.be
+torfs.be
+faz.torfs.be
+estoreapi-pre.torfs.be
+avelonapp-qa.torfs.be
+manus.torfs.be
+integration-preprod.torfs.be
+estoreapi-qa.torfs.be
